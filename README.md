@@ -1,5 +1,5 @@
 # hello-world
-hello world repository : it's my Test Repository :)
+hello world repository : it's my Test Repository Don't Take it Serious :)
 
 ## Readme Examples
 
